@@ -21,12 +21,9 @@ The System follows a modular, object-Oriented design with clear seperation of re
 <li>
   <ol><b>Model Layer</b>
   - Employee class respresenting employee data and attributes</ol>
-  <ol><b>Manager/Service Layer
-  -employeeManager handles business logic and CRUD operations</b></ol>
-  <ol><b>UI Layer
-  - main class managers user interaction and menu flow</b></ol>
-  <ol><b>Collections Layer
-  - In-memeory storage using Java collections for efficient access and manipulation</b></ol>
+  <ol><b>Manager/Service Layer - employeeManager handles business logic and CRUD operations</b></ol>
+  <ol><b>UI Layer- main class managers user interaction and menu flow</b></ol>
+  <ol><b>Collections Layer - In-memeory storage using Java collections for efficient access and manipulation</b></ol>
 
   This structure improves maintainability, scalability, and code readability.
 </li>
