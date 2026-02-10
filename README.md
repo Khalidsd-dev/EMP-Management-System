@@ -42,6 +42,8 @@ This structure improves maintainability, scalability, and readability.
 
 <img width="1920" height="1040" alt="EMP System main menu" src="https://github.com/user-attachments/assets/2e9beaa1-47d5-4e56-ac8e-3e1926c1bc87" />
 
+
+
 **Employee.class**
 
 <img width="1920" height="1040" alt="EMP Calculate SAl" src="https://github.com/user-attachments/assets/6e78996c-a803-42e1-9b78-ca86a1edf60d" />
