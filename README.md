@@ -19,11 +19,10 @@ A Java console-based CRUD application for managing employee records, built using
 The System follows a modular, object-Oriented design with clear seperation of responsibilities:
 
 <li>
-  <ol><b>Model Layer</b>
-  - Employee class respresenting employee data and attributes</ol>
-  <ol><b>Manager/Service Layer - employeeManager handles business logic and CRUD operations</b></ol>
-  <ol><b>UI Layer- main class managers user interaction and menu flow</b></ol>
-  <ol><b>Collections Layer - In-memeory storage using Java collections for efficient access and manipulation</b></ol>
+  <ol><b>Model Layer</b><br>- Employee class respresenting employee data and attributes</ol>
+  <ol><b>Manager/Service Layer<br>- employeeManager handles business logic and CRUD operations</b></ol>
+  <ol><b>UI Layer <br>- main class managers user interaction and menu flow</b></ol>
+  <ol><b>Collections Layer<br> - In-memeory storage using Java collections for efficient access and manipulation</b></ol>
 
   This structure improves maintainability, scalability, and code readability.
 </li>
